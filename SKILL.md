@@ -1,6 +1,13 @@
 ---
 name: get-help
-description: When stuck on a hard, ambiguous, or research-grade problem — especially one where guessing risks wasted iterations — consult the OTHER two locally-installed AI CLIs (and the web, especially Reddit) in parallel for independent second opinions. Pick peers based on the host you're running in: from Claude → consult `codex` + `gemini`; from Codex → consult `claude` + `gemini`; from Gemini → consult `claude` + `codex`. Use BEFORE writing speculative fixes. The goal is a definitive answer grounded in real prior art, not another guess.
+description: >-
+  When stuck on a hard, ambiguous, or research-grade problem - especially one
+  where guessing risks wasted iterations - consult the OTHER two locally-installed
+  AI CLIs and the web, especially Reddit, in parallel for independent second
+  opinions. Pick peers based on the host CLI: from Claude consult codex and
+  gemini; from Codex consult claude and gemini; from Gemini consult claude and
+  codex. Use BEFORE writing speculative fixes. The goal is a definitive answer
+  grounded in real prior art, not another guess.
 ---
 
 # get-help — multi-model parallel consultation
